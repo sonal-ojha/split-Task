@@ -1,0 +1,37 @@
+input {
+    width: 200px;
+    height: 15px;
+    padding-left: 5px;
+    margin: 8px 5px;
+}
+.splitButton{
+    border-radius: 5px;
+    background: rgb(189, 140, 92);
+    width: 250px;
+    height: 30px;
+    /* font-weight: bold; */
+}
+
+.textDisplay{
+    margin-top: 15px;
+}
+
+.tableBlock{
+    display: flex;
+    justify-content: left;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.item{
+    border: #843f98 1px groove;
+    padding: 6px 4px;
+    font-size: 12px;
+}
+.ListDetails{
+    margin-top: 20px;
+}
+
+.delButton{
+    border: #843f98 1px groove;
+    padding: 6px 4px;
+}

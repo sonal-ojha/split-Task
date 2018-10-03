@@ -1,0 +1,15 @@
+{
+  "name": "split",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-scripts": "1.1.5",
+    "react-toastify": "^3.3.4"
+  },
+  "scripts": {
+    "test" : "echo/ error specified",
+    "build" : "webpack src/App.js dist/bundle.js"
+  }
+}

@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.title{
+  background-color: burlywood;
+  color: red;
+  font-size: 17px;
+  height: 50px;
+  line-height: 50px;
+}
+
+.Billblock{
+  margin-top: 15px;
+}
+
+.FriendBlock{
+  margin-top: 10px;
+}
